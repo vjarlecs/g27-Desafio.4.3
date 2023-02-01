@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/g27-Desafio.4.3/static/css/main.ababef68.css",
+    "main.js": "/g27-Desafio.4.3/static/js/main.455c7533.js",
+    "index.html": "/g27-Desafio.4.3/index.html",
+    "main.ababef68.css.map": "/g27-Desafio.4.3/static/css/main.ababef68.css.map",
+    "main.455c7533.js.map": "/g27-Desafio.4.3/static/js/main.455c7533.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ababef68.css",
+    "static/js/main.455c7533.js"
+  ]
+}
